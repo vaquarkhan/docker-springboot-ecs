@@ -23,3 +23,5 @@ Tag it
 
 Push the image
 `docker push 455575310263.dkr.ecr.us-east-1.amazonaws.com/ecs-boot-repo:latest`
+
+- https://viyaanj.medium.com/build-package-and-push-spring-boot-docker-app-in-ecr-2f73994fa660
